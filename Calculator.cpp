@@ -28,7 +28,6 @@ int main() {
                 cout << "Error! Division by zero.";
             break;
         default:
-            // If the operator is other than +, -, * or /, error message is shown
             cout << "Error! Invalid operator.";
             break;
     }
