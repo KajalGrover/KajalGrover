@@ -24,7 +24,6 @@
 | Project | Description |
 |---|---|
 | **Nagar Setu** | Unified Hindi-first, GPS-enabled HRMS platform integrating 6 fragmented MCD legacy systems — presented at Delhi Summer Camp 2.0 |
-| **SafeYatri** | Tourist safety app using AI, Blockchain & IoT with a live prototype — submitted to SIH 2025 & Techverse, now going to ThinkForBharat (Unstop) |
 
 ---
 
@@ -43,10 +42,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
@@ -69,4 +64,3 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></i></p>
